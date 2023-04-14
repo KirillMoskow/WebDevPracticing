@@ -14,6 +14,7 @@
   <h1 style =" font-size: 10%; font-family: 'Open Sans', sans-serif;">My WebDev practicing</h1>
   <img src='https://github.com/KirillMoskow/WebDevPracticing/blob/main/20210505175821!NyanCat.gif'>
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 </body>
 </html>
