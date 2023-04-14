@@ -14,7 +14,7 @@
   <h1 style =" font-size: 10%; font-family: 'Open Sans', sans-serif;">My WebDev practicing</h1>
   <img src='https://github.com/KirillMoskow/WebDevPracticing/blob/main/20210505175821!NyanCat.gif'>
 </div>
-[](https://github-readme-stats.vercel.app/api?username=KirillMoskow)
+(https://github-readme-stats.vercel.app/api?username=KirillMoskow)
 
 </body>
 </html>
